@@ -1,2 +1,2 @@
 # IS601-C1-202
-This is my Firt Class
+This is my First Class
